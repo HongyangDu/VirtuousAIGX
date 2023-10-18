@@ -4,6 +4,6 @@ This repository hosts a demonstration of the case study as presented in the pape
 
 > **"Future Networking in The Age of Generative AI (GAI) and AI-Generated Everything (AIG-X)"**
 
-We will upload all the codes when our paper is accepted.
+We will make all associated codes publicly available upon accepting our paper.
 
 Please stay tuned for updates!
